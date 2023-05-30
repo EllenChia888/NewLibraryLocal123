@@ -1,0 +1,20 @@
+Name: Items
+Type: FolderType
+Children:
+- Name: 文本框1
+  Type: ObjectLibraryItem
+  Children:
+  - Name: 文本框1
+    Id: g=c41779b1843aaae64aac2fea70cb8794
+    Supertype: TextBox
+    ReferenceType: HasComponent
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
+    - Name: Width
+      Type: BaseVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 110.0
