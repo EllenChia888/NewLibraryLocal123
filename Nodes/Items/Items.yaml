@@ -1,10 +1,10 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: 文本框1
+- Name: 框1
   Type: ObjectLibraryItem
   Children:
-  - Name: 文本框1
+  - Name: 框1
     Id: g=c41779b1843aaae64aac2fea70cb8794
     Supertype: TextBox
     ReferenceType: HasComponent
